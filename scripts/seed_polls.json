@@ -1,0 +1,102 @@
+[
+  {
+    "poll_id": "seed-san-antonio-100",
+    "city": "mountain view, ca",
+    "category": "housing",
+    "articles": [
+      {"article_id": "3702094647051", "url": "https://www.newsbreak.com/san-jos-spotlight-510761/3702094647051-mountain-view-planning-commission-backs-affordable-housing-development-with-little-parking", "headline": "Mountain View Planning Commission backs affordable housing development with little parking"}
+    ],
+    "poll": {
+      "question": "Should the Mountain View City Council approve CRP Affordable's eight-story, 100-unit affordable apartment building at 334 San Antonio Road with 16 parking spaces?",
+      "options": ["Yes, approve as proposed", "Yes, but require more parking", "No, do not approve", "Not sure / need more information"],
+      "context": {
+        "for": "The Environmental Planning Commission unanimously supported the project, citing its affordability (households at or below 80% of area median income) and its family-sized units. The developer says the site is within half a mile of transit, affordable tenants tend to own fewer cars, and it will add 100 bicycle spaces and a three-year $50 transit subsidy.",
+        "against": "Several commissioners said 16 spaces is unreasonably low for 100 units, compared with a typical ratio of 0.41 to 0.75 spaces per unit cited by the city's housing director, and questioned whether San Antonio Road has usable bus service for residents to rely on."
+      },
+      "geo_scope": ["94040", "94041", "94043", "94035", "94039", "94042"],
+      "decision_date": "",
+      "sources": ["https://www.newsbreak.com/san-jos-spotlight-510761/3702094647051-mountain-view-planning-commission-backs-affordable-housing-development-with-little-parking"]
+    },
+    "votes": {"total": 214, "weights": [46, 31, 14, 9]}
+  },
+  {
+    "poll_id": "seed-parking-minimums",
+    "city": "mountain view, ca",
+    "category": "zoning_development",
+    "articles": [
+      {"article_id": "3606213450231", "url": "https://www.newsbreak.com/news/3606213450231-mountain-view-looks-to-eliminate-parking-requirements-for-housing-in-parts-of-the-city", "headline": "Mountain View looks to eliminate parking requirements for housing in parts of the city"}
+    ],
+    "poll": {
+      "question": "Should the Mountain View City Council eliminate minimum parking requirements for new residential projects in the Downtown, San Antonio, East Whisman and El Camino Real plan areas?",
+      "options": ["Yes, eliminate them as recommended", "Yes, but keep minimums for accessible and EV parking", "No, keep the current requirements", "Not sure / need more information"],
+      "context": {
+        "for": "City planners say removing minimums gives developers flexibility for more diverse housing and mixed-use projects. The change is called for in the city's housing element and follows state law AB 2097, and the Environmental Planning Commission recommended it on a 4-0-1 vote.",
+        "against": "Commissioners who voted for the recommendation still raised concerns: with no minimum, a project could omit accessible and EV parking entirely, one commissioner said the policy could keep disabled residents from living or working here, and another noted transit ridership has not recovered since the pandemic."
+      },
+      "geo_scope": ["94040", "94041", "94043", "94035", "94039", "94042"],
+      "decision_date": "",
+      "sources": ["https://www.newsbreak.com/news/3606213450231-mountain-view-looks-to-eliminate-parking-requirements-for-housing-in-parts-of-the-city"]
+    },
+    "votes": {"total": 143, "weights": [30, 38, 24, 8]}
+  },
+  {
+    "poll_id": "seed-teacher-housing-land",
+    "city": "mountain view, ca",
+    "category": "schools",
+    "articles": [
+      {"article_id": "3770002815473", "url": "https://www.newsbreak.com/news/3770002815473-mountain-view-whisman-looks-to-buy-the-land-teacher-housing-is-built-on", "headline": "Mountain View Whisman looks to buy the land teacher housing is built on"}
+    ],
+    "poll": {
+      "question": "Should the Mountain View Whisman School District buy the 1.8-acre parcel under its 144-unit staff housing on Shoreline Boulevard rather than lease it for $1.9 million a year?",
+      "options": ["Yes, buy the land", "Yes, but only if the price is below the long-term lease cost", "No, keep leasing", "Not sure / need more information"],
+      "context": {
+        "for": "The district says owning the land would eliminate a $1.9 million annual ground lease and help it keep rents cost-neutral for teachers and staff who struggle with regional housing costs. The board is voting on an option agreement that only gives it the right to buy by June 30.",
+        "against": "The purchase price is not yet known and depends on negotiations with the developer; the district has already spent about $88 million in Measure T bond money on the building, and the lease talks have so far taken place in closed session."
+      },
+      "geo_scope": ["94040", "94041", "94043", "94035", "94039", "94042"],
+      "decision_date": "2025-01-23",
+      "sources": ["https://www.newsbreak.com/news/3770002815473-mountain-view-whisman-looks-to-buy-the-land-teacher-housing-is-built-on"]
+    },
+    "votes": {"total": 57, "weights": [44, 33, 12, 11]}
+  },
+  {
+    "poll_id": "seed-sj-self-checkout",
+    "city": "san jose, ca",
+    "category": "other_local_decision",
+    "articles": [
+      {"article_id": "4892773502565", "url": "https://www.newsbreak.com/news/4892773502565-san-jose-could-be-first-bay-area-city-to-introduce-self-checkout-line-regulations", "headline": "San Jose could be first Bay Area city to introduce self-checkout line regulations"}
+    ],
+    "poll": {
+      "question": "Should the San Jose City Council adopt the proposed self-checkout rules for grocery stores and pharmacies, including a 15-item limit, at least one staffed lane, and one employee for every three kiosks?",
+      "options": ["Yes, adopt the rules as proposed", "Yes, but only the staffed-lane requirement", "No, leave self-checkout decisions to stores", "Not sure / need more information"],
+      "context": {
+        "for": "Councilmembers Candelas and Cohen, backed by the UFCW Local 5 union, say the rules protect workers who now juggle several kiosks plus theft prevention, help seniors who struggle with the technology, and address retail theft that city officials say costs up to $400,000 a year in sales tax.",
+        "against": "The California Grocers Association says the rules would raise grocery prices, create longer lines, and put workers in danger without stopping crime. Only a few Southern California cities have adopted similar limits so far."
+      },
+      "geo_scope": ["95110", "95111", "95112", "95113", "95116", "95117", "95118", "95120", "95121", "95122", "95123", "95124", "95125", "95126", "95127", "95128", "95129", "95130", "95131", "95132", "95133", "95134", "95135", "95136", "95138", "95139", "95148"],
+      "decision_date": "",
+      "sources": ["https://www.newsbreak.com/news/4892773502565-san-jose-could-be-first-bay-area-city-to-introduce-self-checkout-line-regulations"]
+    },
+    "votes": {"total": 302, "weights": [41, 22, 29, 8]}
+  },
+  {
+    "poll_id": "seed-sj-data-centers",
+    "city": "san jose, ca",
+    "category": "zoning_development",
+    "articles": [
+      {"article_id": "4893256207854", "url": "https://www.newsbreak.com/news/4893256207854-san-jose-mayor-meets-with-neighbors-complaining-about-data-center-noise", "headline": "San Jose mayor meets with neighbors complaining about data center noise"}
+    ],
+    "poll": {
+      "question": "As San Jose drafts new data center standards for a City Council vote in December, which approach should the city take?",
+      "options": ["Adopt binding noise, light and recycled-water requirements", "Pause new data centers until standards are adopted", "Work with operators voluntarily rather than new rules", "Not sure / need more information"],
+      "context": {
+        "for": "South San Jose residents near Great Oaks Boulevard describe a constant hum and bright lights from nearby data centers, and Mayor Mahan says the city should require data centers to connect to and pay for the recycled-water network, which would also help expand that system.",
+        "against": "The residents themselves say they are not against data centers, only the noise and lights; the mayor's first step is to ask operators to add fan shielding and dim lights, and the city has not followed other cities that imposed moratoriums."
+      },
+      "geo_scope": ["95110", "95111", "95112", "95113", "95116", "95117", "95118", "95120", "95121", "95122", "95123", "95124", "95125", "95126", "95127", "95128", "95129", "95130", "95131", "95132", "95133", "95134", "95135", "95136", "95138", "95139", "95148"],
+      "decision_date": "",
+      "sources": ["https://www.newsbreak.com/news/4893256207854-san-jose-mayor-meets-with-neighbors-complaining-about-data-center-noise"]
+    },
+    "votes": {"total": 12, "weights": [50, 20, 22, 8]}
+  }
+]

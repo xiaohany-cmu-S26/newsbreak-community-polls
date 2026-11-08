@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "NewsBreak Community Polls",
+  "version": "0.1.0",
+  "description": "What does my town actually think? Neutral AI-generated polls on pending local decisions, attached to NewsBreak stories.",
+  "permissions": ["storage"],
+  "host_permissions": [
+    "http://localhost:8000/*",
+    "http://127.0.0.1:8000/*",
+    "https://*.ngrok-free.app/*",
+    "https://*.ngrok.app/*",
+    "https://*.ngrok.io/*",
+    "https://*.trycloudflare.com/*"
+  ],
+  "background": {"service_worker": "background.js"},
+  "action": {"default_popup": "popup.html", "default_title": "Community Polls"},
+  "content_scripts": [
+    {
+      "matches": ["https://www.newsbreak.com/*", "https://newsbreak.com/*"],
+      "js": ["extract.js", "content_article.js", "content_feed.js"],
+      "run_at": "document_idle"
+    }
+  ]
+}

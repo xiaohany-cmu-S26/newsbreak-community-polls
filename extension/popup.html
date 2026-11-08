@@ -1,0 +1,26 @@
+<!doctype html>
+<html><head><meta charset="utf-8"><style>
+  body { font: 13px -apple-system, BlinkMacSystemFont, Roboto, sans-serif; width: 300px; padding: 14px; margin: 0; color: #1a1a1a; }
+  h1 { font-size: 15px; margin: 0 0 4px; } .sub { color: #6b7280; font-size: 12px; margin-bottom: 12px; }
+  label { display: block; font-weight: 600; margin-top: 10px; font-size: 12px; }
+  input[type=text] { width: 100%; box-sizing: border-box; padding: 7px 8px; border: 1px solid #d6dae0; border-radius: 6px; font: inherit; margin-top: 4px; }
+  .row { display: flex; align-items: center; gap: 8px; margin-top: 10px; }
+  button { margin-top: 14px; width: 100%; padding: 8px; border: 0; border-radius: 6px; background: #4f46e5; color: #fff; font: inherit; font-weight: 600; cursor: pointer; }
+  .ok { color: #15803d; font-size: 12px; margin-top: 6px; height: 14px; } .muted { color: #9ca3af; font-size: 11px; margin-top: 10px; }
+</style></head><body>
+  <h1>📊 Community Polls</h1>
+  <div class="sub">Vote on decisions in your area. Everyone can view; only residents can vote.</div>
+  <label>Your ZIP code<input type="text" id="zip" maxlength="5" placeholder="94040" inputmode="numeric"></label>
+  <label>Backend URL<input type="text" id="backendUrl" placeholder="http://localhost:8000"></label>
+  <label>Poll position on article pages
+    <select id="position" style="width:100%;margin-top:4px;padding:6px;font:inherit">
+      <option value="top">Under the headline (default)</option>
+      <option value="sidebar">Right sidebar (falls back to end of article)</option>
+      <option value="end">End of article</option>
+    </select></label>
+  <div class="row"><input type="checkbox" id="showTrace"><label for="showTrace" style="margin:0">Show agent trace (critic details, triage reasons)</label></div>
+  <button id="save">Save</button>
+  <div class="ok" id="ok"></div>
+  <div class="muted" id="vid"></div>
+  <script src="popup.js"></script>
+</body></html>

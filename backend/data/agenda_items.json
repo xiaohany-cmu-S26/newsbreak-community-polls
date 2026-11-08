@@ -1,0 +1,74 @@
+[
+  {
+    "id": "MV-2026-09-22-6.1",
+    "city": "mountain view, ca",
+    "body": "Mountain View City Council",
+    "meeting_date": "2026-09-22",
+    "decision_date": "2026-10-13",
+    "title": "North Bayshore Precise Plan amendment: increase residential allocation to 9,850 units",
+    "keywords": ["north bayshore", "housing", "units", "precise plan", "google", "shoreline"],
+    "summary": "Staff recommends amending the North Bayshore Precise Plan to raise the residential cap from 9,850 to 11,000 units and to require 20% affordable units in new projects. Study session Sept 22; council vote scheduled Oct 13. Staff report estimates 1,400 additional peak-hour vehicle trips without new transit; EIR addendum in progress.",
+    "source_url": "https://mountainview.legistar.com/demo/MV-2026-09-22-6.1",
+    "note": "DEMO STUB DATA - not a real agenda item"
+  },
+  {
+    "id": "MV-2026-09-29-7.2",
+    "city": "mountain view, ca",
+    "body": "Mountain View City Council",
+    "meeting_date": "2026-09-29",
+    "decision_date": "2026-09-29",
+    "title": "El Camino Real protected bike lanes, Phase 2 (Castro St to Grant Rd): remove 62 on-street parking spaces",
+    "keywords": ["el camino", "bike lane", "parking", "castro", "grant road", "bicycle"],
+    "summary": "Council to decide whether to proceed with Phase 2 of the El Camino Real protected bike lane, which removes 62 on-street parking spaces along a 1.1-mile segment. Staff report cites a 31% reduction in bike-involved collisions in Phase 1. Business owners petition (214 signatures) requests a parking study first. Estimated cost $4.2M, $2.9M grant-funded.",
+    "source_url": "https://mountainview.legistar.com/demo/MV-2026-09-29-7.2",
+    "note": "DEMO STUB DATA - not a real agenda item"
+  },
+  {
+    "id": "MV-2026-10-06-5.3",
+    "city": "mountain view, ca",
+    "body": "Mountain View Rental Housing Committee",
+    "meeting_date": "2026-10-06",
+    "decision_date": "2026-10-06",
+    "title": "CSFRA annual general adjustment and proposed cap on pass-through of capital improvement costs",
+    "keywords": ["rent", "csfra", "rent control", "rental housing committee", "landlord", "tenant", "pass-through"],
+    "summary": "Committee to vote on capping capital improvement pass-throughs at 5% of rent (currently 10%) for CSFRA-covered units. Tenant groups support; landlord association says it will reduce maintenance investment. Staff analysis: affects approximately 14,000 covered units.",
+    "source_url": "https://mountainview.legistar.com/demo/MV-2026-10-06-5.3",
+    "note": "DEMO STUB DATA - not a real agenda item"
+  },
+  {
+    "id": "MVWSD-2026-10-01-9.1",
+    "city": "mountain view, ca",
+    "body": "Mountain View Whisman School District Board",
+    "meeting_date": "2026-10-01",
+    "decision_date": "2026-11-05",
+    "title": "Attendance boundary adjustment and possible consolidation of two elementary campuses",
+    "keywords": ["school", "boundary", "elementary", "consolidation", "mvwsd", "district", "enrollment"],
+    "summary": "Board is considering redrawing attendance boundaries for the 2027-28 year in response to a 12% enrollment decline since 2021. Option A: adjust boundaries only. Option B: consolidate two campuses (Bubb and Theuerkauf are cited in the staff report as candidates). Public hearings Oct 1 and Oct 22; decision targeted Nov 5.",
+    "source_url": "https://mvwsd.legistar.com/demo/MVWSD-2026-10-01-9.1",
+    "note": "DEMO STUB DATA - not a real agenda item"
+  },
+  {
+    "id": "MV-2026-10-20-4.4",
+    "city": "mountain view, ca",
+    "body": "Mountain View City Council",
+    "meeting_date": "2026-10-20",
+    "decision_date": "2026-10-20",
+    "title": "Shoreline Boulevard transit-only lane pilot extension (12 months)",
+    "keywords": ["shoreline", "transit", "bus lane", "pilot", "traffic", "commute"],
+    "summary": "Council to decide whether to extend the Shoreline Blvd bus-only lane pilot for another 12 months. Pilot data: bus travel time down 9 minutes at peak; general traffic travel time up 4 minutes; 3 rear-end collisions at the lane merge. Cost of extension $380K.",
+    "source_url": "https://mountainview.legistar.com/demo/MV-2026-10-20-4.4",
+    "note": "DEMO STUB DATA - not a real agenda item"
+  },
+  {
+    "id": "MV-2026-10-27-8.1",
+    "city": "mountain view, ca",
+    "body": "Mountain View City Council",
+    "meeting_date": "2026-10-27",
+    "decision_date": "2026-10-27",
+    "title": "FY2026-27 mid-year budget: proposed business license tax increase to fund unhoused services",
+    "keywords": ["budget", "business license", "tax", "homeless", "unhoused", "safe parking", "rv"],
+    "summary": "Council to consider a business license tax increase projected to raise $6.5M/yr, earmarked for expanding safe parking sites and case management. Chamber of Commerce opposes the size of the increase; service providers say current funding covers about 40% of demand.",
+    "source_url": "https://mountainview.legistar.com/demo/MV-2026-10-27-8.1",
+    "note": "DEMO STUB DATA - not a real agenda item"
+  }
+]
